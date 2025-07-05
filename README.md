@@ -27,11 +27,12 @@ register_faces.py  人脸存储代码，将人脸图片存入faces文件夹后�
 
 ## 🚀 快速开始
 
-1.安装依赖
+
 
 建议使用 Python 3.8+ 环境：
 
 ```bash
+1.安装依赖
 pip install -r requirements.txt
 
 2.启动下位机程序 
