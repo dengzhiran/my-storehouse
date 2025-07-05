@@ -1,0 +1,14 @@
+# 图像处理与计算
+numpy>=1.20.0
+opencv-python>=4.5.5
+matplotlib>=3.4.0
+
+# 深度学习框架
+torch>=1.10.0
+torchvision>=0.11.0
+
+# 人脸检测与识别
+facenet-pytorch>=2.5.2
+
+# 姿态识别 YOLOv8 相关
+ultralytics>=8.0.20
